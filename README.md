@@ -11,3 +11,5 @@ Selenium Type Library
 Selenium Basic Library in your system
 
 C:\Users\<username>\AppData\Local\SeleniumBasic
+
+4. Import .bas File from JsonPArser
